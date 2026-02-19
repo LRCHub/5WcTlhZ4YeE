@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "しぼう",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2026-02-19T10:10:06.822044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "しぼう",
+      "artist": "PinocchioP",
+      "has_synced": false,
+      "path": "select/01_しぼう_PinocchioP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "しぼう",
+      "artist": "ピノキオP",
+      "has_synced": false,
+      "path": "select/02_しぼう_ピノキオP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しぼう",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_しぼう_ピノキオピー.txt"
+    }
+  ]
+}
